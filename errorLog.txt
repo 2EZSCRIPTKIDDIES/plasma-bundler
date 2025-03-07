@@ -1,0 +1,9 @@
+{
+  "accounts": null,
+  "err": "AccountNotFound",
+  "innerInstructions": null,
+  "logs": [],
+  "replacementBlockhash": null,
+  "returnData": null,
+  "unitsConsumed": 0
+}
